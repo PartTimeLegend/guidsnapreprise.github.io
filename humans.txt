@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Richard -- Idea & doer -- @chockabloke
+
+# THANKS
+
+    http://www.blacktie.co for the bolt bootstrap theme 
+    broofa for the guid generation code http://stackoverflow.com/a/2117523/6124
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, Bootstrap
