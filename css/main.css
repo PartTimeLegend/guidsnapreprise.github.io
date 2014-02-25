@@ -257,6 +257,10 @@ a:after {
     padding-bottom :5px;
     margin : 2px;
 }
+.fb-share-button span {
+   vertical-align: top !important;
+}
+
 
 /* Image Opacity */
 .grid img {
