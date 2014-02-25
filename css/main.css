@@ -247,6 +247,16 @@ a:after {
 	padding-right: 5px;
 }
 
+.share-buttons {
+    position : relative;
+    list-style-type : none;
+}
+.share-buttons li {
+    float : left;
+    padding-top : 5px;
+    padding-bottom :5px;
+    margin : 2px;
+}
 
 /* Image Opacity */
 .grid img {
