@@ -45,6 +45,10 @@ SnapWidget = {
 	    		}, 2000);
 	    	});
 	    });
+		
+	    if (typeof ga != "undefined") {
+	    	ga('send', 'event', 'Game', 'play', resultText);
+	    }
 	},
 
 	playSound: function(soundName) {
