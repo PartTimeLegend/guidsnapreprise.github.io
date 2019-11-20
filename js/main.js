@@ -47,7 +47,7 @@ SnapWidget = {
 	    });
 		
 	    if (typeof ga != "undefined") {
-	    	ga('send', 'event', 'Game', 'play', resultText);
+	    	ga('send', 'event', 'Game', 'play', resultText(isMatch));
 	    }
 	},
 
